@@ -23,7 +23,7 @@ A free and open-source C/C++ video chat application.
 - Encrypted (PKE) audio streaming (no video)
 - Works on Ubuntu Linux
 
-## v0.9
+## v1.9
 
 - Encrypted (PKE) video streaming (no audio)
 - Works on Ubuntu Linux
