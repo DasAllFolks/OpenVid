@@ -8,4 +8,7 @@ class SimpleServer {
   int socket_type;
   int protocol;
   int port;
+
+  public:
+    SimpleServer(int, int, int, int);
 };
