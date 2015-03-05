@@ -1,3 +1,6 @@
+#include <sys/socket.h>
+
+
 class SimpleServer {
   /* Represents a simple server with a single open port for listening. */
 
